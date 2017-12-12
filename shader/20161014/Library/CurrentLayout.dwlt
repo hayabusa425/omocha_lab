@@ -13,14 +13,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 41
-    y: 45
+    x: 39
+    y: 50
     width: 1399
     height: 786
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 47
+  controlID: 25
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
     y: 0
     width: 1399
     height: 786
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 48
+  controlID: 26
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 49
+  controlID: 27
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -341,8 +341,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 41
-    y: 539
+    x: 39
+    y: 544
     width: 1113
     height: 270
   m_SearchFilter:
@@ -363,7 +363,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/hayato/Projects/omocha_lab/shader/20161012
+  m_LastProjectPath: /Users/hayato/Projects/omocha_lab/shader/20161014
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
@@ -474,8 +474,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1158
-    y: 94
+    x: 1156
+    y: 99
     width: 282
     height: 715
   m_ScrollPosition: {x: 0, y: 0}
@@ -507,8 +507,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 41
-    y: 94
+    x: 39
+    y: 99
     width: 274
     height: 424
   m_TreeViewState:
@@ -560,8 +560,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 319
-    y: 94
+    x: 317
+    y: 99
     width: 835
     height: 424
   m_SceneLighting: 1
@@ -570,9 +570,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.14060879, y: -0.6848545, z: 0.6968775}
+    m_Target: {x: 0.93469954, y: -7.5003843, z: -0.8651557}
     speed: 2
-    m_Value: {x: -0.14060879, y: -0.6848545, z: 0.6968775}
+    m_Value: {x: 0.93469954, y: -7.5003843, z: -0.8651557}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -595,13 +595,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.11003768, y: 0.87744504, z: -0.24171583, w: -0.39944395}
+    m_Target: {x: 0.005095913, y: -0.7776665, z: 0.62862486, w: 0.0063040974}
     speed: 2
-    m_Value: {x: -0.11003768, y: 0.87744504, z: -0.24171583, w: -0.39944395}
+    m_Value: {x: 0.005095913, y: -0.7776665, z: 0.62862486, w: 0.0063040974}
   m_Size:
-    m_Target: 10
+    m_Target: 21.54536
     speed: 2
-    m_Value: 10
+    m_Value: 21.54536
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -635,8 +635,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 319
-    y: 94
+    x: 317
+    y: 99
     width: 835
     height: 424
   m_MaximizeOnPlay: 0
